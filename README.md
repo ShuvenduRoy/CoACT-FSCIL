@@ -5,6 +5,14 @@ Official implementation of our paper:
 > [**Consistency-Guided Asynchronous Contrastive Tuning for Few-Shot Class-Incremental Tuning of Foundation Models**](https://openreview.net/forum?id=WfAvMdwiE8) <br>
 > Shuvendu Roy, Elham Dolatabadi, Arash Afkanpour, and Ali Etemad <br> > Transactions on Machine Learning Research (TMLR 2025)
 
+[![paper](https://img.shields.io/badge/TMLR-2025-<COLOR>.svg)](https://openreview.net/forum?id=WfAvMdwiE8)
+
+<hr />
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-tuning-of-foundation-models-for/few-shot-class-incremental-learning-on-cub)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-cub?p=few-shot-tuning-of-foundation-models-for)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-tuning-of-foundation-models-for/few-shot-class-incremental-learning-on-mini)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-mini?p=few-shot-tuning-of-foundation-models-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-tuning-of-foundation-models-for/few-shot-class-incremental-learning-on-cifar)](https://paperswithcode.com/sota/few-shot-class-incremental-learning-on-cifar?p=few-shot-tuning-of-foundation-models-for)
+
 ## Overview
 
 ![CoACT](assets/coact.png)
